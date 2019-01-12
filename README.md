@@ -7,9 +7,7 @@
 		}
 	}
 	
-  dependencies {
-	        implementation 'com.github.developeramit3:AwesomeAlertDailog:Tag'
-	}
+  
 	// How To use 
 	 new AwesomeDialogBuilder(VerificationPhone.this)
                             .setTitle("Hello, This is title ")
