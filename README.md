@@ -8,7 +8,7 @@
 	}
 	
 	dependencies {
-	        implementation 'com.github.developeramit3:AwesomeAlertDailog:Tag'
+	        implementation 'com.github.developeramit3:AwesomeAlertDailog:1.0.1'
 	}
   
 	// How To use 
